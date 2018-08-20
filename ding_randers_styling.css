@@ -790,11 +790,15 @@ ol.circle-list li:before {
 
 .primary-content .pane-new-materials-covers .search-results ul.list li.list-item{
     margin-right : 2.4911%;
+    vertical-align: top;
 }
-/*
-.primary-content .pane-new-materials-covers .search-results ul.list li.list-item:nth-child(7n) {
-    margin-right : 2.4911%;
-}*/
+.ting-new-materials-item-title {
+    color: #000;
+/*    width: 190px;
+    position: absolute;
+    font-size: 18px;*/
+    padding-top: 7px;
+}
 
 
 /* Oversigtsside */
