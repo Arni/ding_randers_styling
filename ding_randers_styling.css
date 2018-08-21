@@ -778,10 +778,7 @@ ol.circle-list li:before {
 
 /* Ting new materials */
 
-.primary-content .pane-new-materials-covers .search-results ul.list li.list-item {
-    width : 22.5%;
-    
-}
+
 
 .primary-content .pane-new-materials-covers .search-results ul.list li.list-item:nth-child(4n) {
     clear : left;
@@ -789,8 +786,10 @@ ol.circle-list li:before {
 }
 
 .primary-content .pane-new-materials-covers .search-results ul.list li.list-item{
-    margin-right : 2.4911%;
+    margin-right : 2.2911%;
+    width : 22.5%;
     vertical-align: top;
+    display: inline-block;
 }
 .ting-new-materials-item-title {
     color: #000;
@@ -841,6 +840,22 @@ ol.circle-list li:before {
     overflow: hidden;
 }
 
+/* Frontpage new materials list */
+
+.page-ding-frontpage .primary-content .pane-new-materials-covers .search-results ul.list li.list-item {
+    width : 14.0%;
+    
+}
+
+.page-ding-frontpage .content-wrapper .pane-content .frontpage-layout .panel-pane .panel-pane-inner {
+    width: 100%;
+
+}
+
+.page-ding-frontpage .primary-content .pane-new-materials-covers .search-results ul.list li.list-item:nth-child(4n) {
+    clear : inherit;
+    margin-right : 2.2911%;
+}
 
 
 
