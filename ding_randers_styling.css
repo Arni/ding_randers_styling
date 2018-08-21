@@ -857,6 +857,37 @@ ol.circle-list li:before {
     margin-right : 2.2911%;
 }
 
+.page-ding-frontpage .pane-new-materials-covers .search-results li {
+    margin-bottom: 0px;
+}
+
+.page-ding-frontpage .pane-new-materials-covers .search-results ul {
+    margin-left: 0px;
+}
+
+.pane-content .pane-new-materials-covers  .more-link {
+    clear: none;
+    display: block;
+    margin-right: 2.4911%;
+    width: 22%; 
+    min-width: 20%;
+}
+
+.pane-content .pane-new-materials-covers  .more-link a {
+    font-size : 18px;
+}
+
+.pane-content .pane-new-materials-covers  .more-link a::after {
+    content: "\e900";
+    color: #ffffff;
+    font-size : 80px;
+    line-height: 0.7;
+}
+
+
+
+
+
 
 
 
