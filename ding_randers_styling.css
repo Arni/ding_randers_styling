@@ -843,7 +843,7 @@ ol.circle-list li:before {
 /* Frontpage new materials list */
 
 .page-ding-frontpage .primary-content .pane-new-materials-covers .search-results ul.list li.list-item {
-    width : 14.0%;
+    width : 14.529%;
     
 }
 
@@ -865,13 +865,21 @@ ol.circle-list li:before {
     margin-left: 0px;
 }
 
+.page-ding-frontpage .primary-content .pane-new-materials-covers .search-results ul.list li.list-item:nth-child(6n) {
+    margin-right: 0%;
+}
+
 .pane-content .pane-new-materials-covers  .more-link {
     clear: none;
     display: block;
     margin-right: 2.4911%;
-    width: 22%; 
+    width: 23.1%; 
     min-width: 20%;
 }
+
+.pane-content .pane-new-materials-covers .more-link:nth-child(5n) {
+    margin-right: 0%;
+} 
 
 .pane-content .pane-new-materials-covers  .more-link a {
     font-size : 18px;
