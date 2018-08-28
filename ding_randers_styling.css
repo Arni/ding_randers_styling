@@ -914,7 +914,19 @@ ol.circle-list li:before {
 }
 
 .ding-carousel  .slick-slider .slick-list {
-    padding-bottom: 40px;
+    padding-bottom: 30px;
+}
+
+.pane-carousel .ding-carousel .slick-slider {
+    min-height: 0px;
+}
+
+.pane-carousel .ding-carousel ul {
+    margin-bottom: 0px;
+}
+
+.pane-carousel  .carousel-tabs .carousel-list-tabs {
+    display: none;
 }
 /*.pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide:nth-child(6n) {
     margin-right: 0%;
