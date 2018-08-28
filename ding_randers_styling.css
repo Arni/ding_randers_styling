@@ -877,7 +877,7 @@ ol.circle-list li:before {
     min-width: 20%;
 }
 
-.pane-content .pane-new-materials-covers .more-link:nth-child(5n) {
+.pane-content .pane-new-materials-covers .more-link:nth-child(4n) {
     margin-right: 0%;
 } 
 
@@ -908,7 +908,7 @@ ol.circle-list li:before {
     font-family: FaktPro-SemiBold,sans-serif;
 }
 
-.pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide {
+ .pane-serendipity-ting-object .ding-carousel .slick-slider .slick-track .slick-slide, .pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide {
     margin-right: 30px;
     width: 158px; 
 }
@@ -925,8 +925,20 @@ ol.circle-list li:before {
     margin-bottom: 0px;
 }
 
-.pane-carousel  .carousel-tabs .carousel-list-tabs {
+.pane-carousel  .carousel-tabs {
     display: none;
+}
+
+.frontpage-layout .ding-carousel .slick-slider .slick-arrow.slick-next, .frontpage-layout .ding-carousel .slick-slider .slick-arrow.slick-prev.slick-disabled {
+    display:none;
+}
+
+.ding-carousel .slick-slide {
+    height: inherit;
+}
+
+.ding-carousel .slick-slider .slick-track .placeholder {
+    
 }
 /*.pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide:nth-child(6n) {
     margin-right: 0%;
