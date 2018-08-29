@@ -1,0 +1,13 @@
+@media screen and (max-width: 4500px) {
+  .primary-content .pane-views-exp-ding-event-ding-event-list {
+    display: none;
+  }
+}
+@media screen and (max-width: 950px) {
+  .primary-content .pane-views-exp-ding-event-ding-event-list {
+    display: block;
+  }
+  .secondary-content .pane-views-exp-ding-event-ding-event-list {
+    display: none;
+  }
+ }
