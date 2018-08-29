@@ -5,10 +5,10 @@
  */
 
 
-function ding_randers_styling_preprocess_field__ting_author(&$vars) {
-  file_put_contents("/var/www/drupalvm/drupal/debug/author1.txt", print_r("Ramt" , TRUE), FILE_APPEND);
-   if ($vars['element']['#view_mode'] == 'teaser') {
-      file_put_contents("/var/www/drupalvm/drupal/debug/author2.txt", print_r("Ramt" , TRUE), FILE_APPEND);
-   }
-  
-}
+//function ding_randers_styling_preprocess_field__ting_author(&$vars) {
+//  file_put_contents("/var/www/drupalvm/drupal/debug/author1.txt", print_r("Ramt" , TRUE), FILE_APPEND);
+//   if ($vars['element']['#view_mode'] == 'teaser') {
+//      file_put_contents("/var/www/drupalvm/drupal/debug/author2.txt", print_r("Ramt" , TRUE), FILE_APPEND);
+//   }
+//  
+//}
