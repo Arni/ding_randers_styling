@@ -5,3 +5,4 @@ package = Ding!
 stylesheets[all][] = ding_randers_styling.css
 stylesheets[all][] = pane-menu_randers_styling.css
 stylesheets[all][] = ding-event-list_randers_styling.css
+stylesheets[all][] = search-ting_randers_styling.css

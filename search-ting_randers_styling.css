@@ -1,0 +1,10 @@
+.pane-search-result .messages.status {
+  display: none;
+}
+
+@media screen and (max-width: 4500px) {
+
+}
+@media screen and (max-width: 950px) {
+
+ }
