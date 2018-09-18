@@ -40,6 +40,7 @@
   color: #fff;
 }
 
-.paragraphs-item-link .more-link {
+.paragraphs-item-link .more-link,
+.paragraphs-item-smart-link .more-link {
   padding: 0;
 }
