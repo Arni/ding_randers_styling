@@ -8,3 +8,34 @@
 @media screen and (max-width: 950px) {
 
  }
+
+.field-name-field-test-link  .field-items > .field-item,
+.field-name-field-paragraph-link  .field-items > .field-item {
+  float: left;
+  margin-right: 15px;
+  width: 200px;
+}
+
+.field-group-fieldset.more-link .field-name-field-test-link a,
+.field-group-fieldset.more-link .field-name-field-paragraph-link a {
+  margin-bottom: 10px;
+  margin-right: 20px;
+  font-size: 18px;
+  transition: background-color .3s cubic-bezier(.165,.84,.44,1),color .3s cubic-bezier(.165,.84,.44,1);
+  -webkit-transition: background-color .3s cubic-bezier(.165,.84,.44,1),color .3s cubic-bezier(.165,.84,.44,1);
+  -moz-transition: background-color .3s cubic-bezier(.165,.84,.44,1),color .3s cubic-bezier(.165,.84,.44,1);
+}
+
+.field-group-fieldset.more-link .field-name-field-test-link a:hover,
+.field-group-fieldset.more-link .field-name-field-paragraph-link a:hover {
+  background-color: #ccc;
+}
+
+.field-group-fieldset.more-link .field-name-field-test-link a:after,
+.field-group-fieldset.more-link .field-name-field-paragraph-link a:after {
+  color: #fff;
+}
+
+.paragraphs-item-link .more-link {
+  padding: 0;
+}
