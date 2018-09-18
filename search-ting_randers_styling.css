@@ -21,6 +21,14 @@
   width: 266px;
 }
 
+.node-smart-search-content .field-name-field-test-link  .field-items > .field-item,
+.node-smart-search-content .field-name-field-paragraph-link  .field-items > .field-item,
+.node-smart-search-content .field-name-field-smart-link  .field-items > .field-item {
+  float: left;
+  margin-right: 15px;
+  width: 220px;
+}
+
 .field-group-fieldset.more-link .field-name-field-test-link a,
 .field-group-fieldset.more-link .field-name-field-paragraph-link a,
 .field-group-fieldset.more-link .field-name-field-smart-link a {
