@@ -11,6 +11,9 @@
   fieldset.group-smart-linkwrapper a.fieldset-title {
     display: block;
   }
+  .node-smart-search-content .more-link a {
+    width: 258px;
+  }
 }
 
 .field-name-field-test-link  .field-items > .field-item,
