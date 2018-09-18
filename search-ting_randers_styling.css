@@ -3,11 +3,15 @@
 }
 
 @media screen and (max-width: 4500px) {
-
+  fieldset.group-smart-linkwrapper a.fieldset-title {
+    display: none;
+  }
 }
 @media screen and (max-width: 950px) {
-
- }
+  fieldset.group-smart-linkwrapper a.fieldset-title {
+    display: block;
+  }
+}
 
 .field-name-field-test-link  .field-items > .field-item,
 .field-name-field-paragraph-link  .field-items > .field-item,
