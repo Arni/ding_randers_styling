@@ -12,7 +12,7 @@
     display: block;
   }
   .node-smart-search-content .more-link a {
-    width: 258px;
+    width: 100%;
   }
 }
 
