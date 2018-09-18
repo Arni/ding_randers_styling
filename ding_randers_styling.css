@@ -5,7 +5,7 @@
 /* Ting search context */
 .ting-search-context .group-blocks--fourth{padding-right: 10px;}
 .ting-search-context .group-blocks--first {padding-left: 10px;}
-.ting-search-context .group-blocks--inner h2 
+.ting-search-context .group-blocks--inner h2
 {
   font-size: 140%;
   margin-top: 3px;
@@ -15,7 +15,7 @@
 .group-blocks--inner p {margin-top: 0px;}
 .page-content .group-blocks--inner  li {list-style: none outside none;}
 .genre-list-detail-wrapper {  margin-top:30px;}
-.genre-list-big {border-top: 1px solid #EFEFEF} 
+.genre-list-big {border-top: 1px solid #EFEFEF}
 .genre-list-big .group-blocks--inner {margin-top: 0px; padding-top: 10px; border-top:none}
 .genre-list-detail-wrapper .sub-menu > li {border-bottom: none;}
 .students-content-left {width:50%; float: left}
@@ -211,7 +211,7 @@ ol.circle-list li:before {
   float: left;
   margin-left: 0;
   margin-right: -66.6667%;
-  padding-left: 0;   
+  padding-left: 0;
   width: 66.6667%;
   word-wrap: break-word;
   clear: both;
@@ -346,8 +346,8 @@ ol.circle-list li:before {
   box-sizing:border-box;
   width: 25%;
   margin-left: -75%;
-  float: right;  
-  
+  float: right;
+
 }
 
 .frontpage-links {
@@ -388,12 +388,12 @@ ol.circle-list li:before {
 }
 
  .frontpage-header .more-link {padding-top:10px;}
- 
+
  .frontpage-header .sub-menu > li a {
    color: #0e5376;
    font-size: 110%;
  }
-  
+
 
 
 
@@ -420,7 +420,7 @@ ol.circle-list li:before {
   padding-bottom: 0px;
   width: 100%;
   margin-left: 0;
-  float: none; 
+  float: none;
   clear: both;
   margin-top: 20px;
 }
@@ -433,7 +433,7 @@ ol.circle-list li:before {
     width: 41%;
     float: left;
   }
-  
+
   .frontpage-header-navigation .frontpage-links--fourth,  .frontpage-header-navigation .frontpage-links--second{
      float: right;
   }
@@ -515,13 +515,13 @@ ol.circle-list li:before {
   .pane-top-recommendation-list .adhl-results li {
     width: 45%;
   }
-  
+
  .pane-top-recommendation-list .adhl-results ul {
   margin-left: 0px;
   }
 }
 
-/* Generel styling    
+/* Generel styling
 
 .topbar .site-name-wrapper{display: none}
 .topbar .logo img {height: 40px; margin-top: 7px;}
@@ -549,7 +549,7 @@ ol.circle-list li:before {
 
 .node-type-genre-page .content-wrapper {
     margin-top: 10px;
-    
+
 }
 
 .genre-title h1 {
@@ -612,7 +612,7 @@ ol.circle-list li:before {
   padding-left: 16px;
 }
 
-#ting-genre-page-related-content .group-blocks--inner h2 
+#ting-genre-page-related-content .group-blocks--inner h2
 {
   font-size: 140%;
   margin-top: 3px;
@@ -722,7 +722,7 @@ ol.circle-list li:before {
   .pane-recommendation-list  .adhl-results li {
     width: 45%;
   }
-  
+
  .pane-recommendation-list  .adhl-results ul {
   margin-left: 0px;
   }
@@ -807,7 +807,7 @@ ol.circle-list li:before {
     float : left;
     margin-bottom: 30px;
     margin-left: 3%
-   
+
 }
 
 .genre-list-big .group-blocks--inner .group-blocks--first {
@@ -825,7 +825,7 @@ ol.circle-list li:before {
     float : left;
     margin-bottom: 30px;
     margin-left: 2%
-   
+
 }
 
 .pane-top-recommendation-list .genre-list-big .group-blocks--inner .group-blocks--first {
@@ -844,7 +844,7 @@ ol.circle-list li:before {
 
 .page-ding-frontpage .primary-content .pane-new-materials-covers .search-results ul.list li.list-item {
     width : 14.529%;
-    
+
 }
 
 .page-ding-frontpage .content-wrapper .pane-content .frontpage-layout .panel-pane .panel-pane-inner {
@@ -875,13 +875,21 @@ ol.circle-list li:before {
     clear: none;
     display: block;
     margin-right: 2.4911%;
-    width: 23.1%; 
+    width: 23.1%;
     min-width: 20%;
+}
+
+@media screen and (max-width: 950px) {
+  .pane-content .pane-new-materials-covers  .more-link {
+    width: 40%;
+    float: left;
+    margin: 0 5% 25px 5%;
+  }
 }
 
 .pane-content .pane-new-materials-covers .more-link:nth-child(4n) {
     margin-right: 0%;
-} 
+}
 
 .pane-content .pane-new-materials-covers  .more-link a {
     font-size : 18px;
@@ -912,7 +920,7 @@ ol.circle-list li:before {
 
  .pane-serendipity-ting-object .ding-carousel .slick-slider .slick-track .slick-slide, .pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide {
     margin-right: 30px;
-    width: 158px; 
+    width: 158px;
 }
 
 .ding-carousel  .slick-slider .slick-list {
@@ -957,15 +965,3 @@ ol.circle-list li:before {
 /*.pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide:nth-child(6n) {
     margin-right: 0%;
 } */
-
-
-
-
-
-
-
-
-
-
-
-
