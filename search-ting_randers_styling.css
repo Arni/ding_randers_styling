@@ -14,6 +14,10 @@
   .node-smart-search-content .more-link a {
     width: 222px;
   }
+  .paragraphs-items-field-carousel-links .more-link a,
+  .paragraphs-items-field-links .more-link a {
+    width: 100%;
+  }
 }
 
 .field-name-field-test-link  .field-items > .field-item,
