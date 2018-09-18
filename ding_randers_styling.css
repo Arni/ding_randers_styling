@@ -869,6 +869,8 @@ ol.circle-list li:before {
     margin-right: 0%;
 }
 
+/*Inspiration block frontpage */
+
 .pane-content .pane-new-materials-covers  .more-link {
     clear: none;
     display: block;
@@ -939,6 +941,10 @@ ol.circle-list li:before {
 
 .ding-tabbed-carousel .ding-carousel .slick-slider .slick-track .placeholder {
     min-height: 245px;
+}
+
+.ding-carousel .ting-object.view-mode-teaser>.inner {
+    padding-top: 140%;
 }
 
 /* .content-wrapper .content-inner .pane-content .frontpage-layout .primary-content .pane-block-9 {
