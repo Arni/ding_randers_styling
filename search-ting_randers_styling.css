@@ -24,9 +24,13 @@
 .node-smart-search-content .field-name-field-test-link  .field-items > .field-item,
 .node-smart-search-content .field-name-field-paragraph-link  .field-items > .field-item,
 .node-smart-search-content .field-name-field-smart-link  .field-items > .field-item {
-  float: left;
-  margin-right: 15px;
   width: 220px;
+}
+
+.node-smart-search-content.link-only .field-name-field-test-link  .field-items > .field-item,
+.node-smart-search-content.link-only .field-name-field-paragraph-link  .field-items > .field-item,
+.node-smart-search-content.link-only .field-name-field-smart-link  .field-items > .field-item {
+  width: 341px;
 }
 
 .field-group-fieldset.more-link .field-name-field-test-link a,
