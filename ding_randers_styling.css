@@ -904,7 +904,8 @@ ol.circle-list li:before {
 
 /* Carasoul theming */
 
-.ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-title h2 {
+.ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-title h2,
+.pane-ting-ting-object-types .view-mode-teaser .field-name-ting-title h2 {
     font-family: FaktPro-Normal,sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -913,12 +914,15 @@ ol.circle-list li:before {
     padding-top: 7px;
 }
 
-.ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-author {
+.ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-author,
+.pane-ting-ting-object-types .view-mode-teaser .field-name-ting-author {
     color: #000000;
     font-family: FaktPro-SemiBold,sans-serif;
 }
 
- .pane-serendipity-ting-object .ding-carousel .slick-slider .slick-track .slick-slide, .pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide {
+.pane-serendipity-ting-object .ding-carousel .slick-slider .slick-track .slick-slide,
+.pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide,
+.panel-pane.pane-ting-ting-object-types.grid-small .pane-content > ul li {
     margin-right: 30px;
     width: 158px;
 }
