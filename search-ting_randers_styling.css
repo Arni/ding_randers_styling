@@ -18,6 +18,10 @@
   .paragraphs-items-field-links .more-link a {
     width: 100%;
   }
+  div.pane-search-per-page,
+  div.pane-ting-search-sort-form {
+    display: none;
+  }
 }
 
 .field-name-field-test-link  .field-items > .field-item,
