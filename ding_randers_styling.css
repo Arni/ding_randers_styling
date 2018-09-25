@@ -930,6 +930,10 @@ ol.circle-list li:before {
     clear: none;
 }
 
+.panel-pane.pane-ting-ting-object-types.grid-small .pane-content > ul li:nth-child(6n) {
+    margin-right: 0px;
+}
+
 .ding-carousel  .slick-slider .slick-list {
     padding-bottom: 30px;
 }
