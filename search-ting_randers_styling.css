@@ -19,7 +19,8 @@
     width: 100%;
   }
   div.pane-search-per-page,
-  div.pane-ting-search-sort-form {
+  div.pane-ting-search-sort-form,
+  div.pane-smart-search-form {
     display: none;
   }
 }
