@@ -922,9 +922,12 @@ ol.circle-list li:before {
 
 .pane-serendipity-ting-object .ding-carousel .slick-slider .slick-track .slick-slide,
 .pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide,
-.panel-pane.pane-ting-ting-object-types.grid-small .pane-content > ul li {
+.panel-pane.pane-ting-ting-object-types.grid-small .pane-content > ul li,
+.panel-pane.pane-ting-ting-object-types.grid-small .pane-content > ul li:nth-child(4n),
+.panel-pane.pane-ting-ting-object-types.grid-small .pane-content > ul li:nth-child(4n+1) {
     margin-right: 30px;
     width: 158px;
+    clear: none;
 }
 
 .ding-carousel  .slick-slider .slick-list {
