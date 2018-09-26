@@ -966,6 +966,11 @@ ol.circle-list li:before {
     padding-top: 140%;
 }
 
+/** Hide interest period on user profile */
+#user-profile-form .pane-content > div #edit-profile-provider-fbs-field-fbs-interest-period.field-name-field-fbs-interest-period {
+  display: none;
+}
+
 /* .content-wrapper .content-inner .pane-content .frontpage-layout .primary-content .pane-block-9 {
     background-image: none;
     color : #000000;
