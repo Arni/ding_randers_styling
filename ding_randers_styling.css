@@ -981,3 +981,27 @@ ol.circle-list li:before {
 /*.pane-carousel .ding-carousel .slick-slider .slick-track .slick-slide:nth-child(6n) {
     margin-right: 0%;
 } */
+
+/** WEBFORM STYLING **/
+
+.webform-client-form .form-actions {
+  clear: both;
+}
+
+.webform-client-form .webform-component {
+    margin-right: 30px;
+}
+
+.webform-client-form .webform-component {
+    clear: both;
+}
+
+.webform-client-form .webform-component-date .webform-calendar {
+    position: absolute;
+    left: auto;
+    right: 20px;
+}
+
+.webform-client-form .webform-component-fieldset .webform-component {
+    clear: none;
+}
