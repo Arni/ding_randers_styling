@@ -915,7 +915,8 @@ ol.circle-list li:before {
 }
 
 .ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-author,
-.pane-ting-ting-object-types .view-mode-teaser .field-name-ting-author {
+.pane-ting-ting-object-types .view-mode-teaser .field-name-ting-author,
+.pane-ting-ting-object-types .view-mode-teaser .field-name-ting-type {
     color: #000000;
     font-family: FaktPro-SemiBold,sans-serif;
 }
