@@ -1033,7 +1033,7 @@ ol.circle-list li:before {
     width: 53%;
     float: right;
     border-radius: 5px;
-    padding: 20px 80px 14px 15px;
+    padding: 20px 20px 14px 15px;
     background-color: #f96b6b;
     color: #ffffff;
 }
