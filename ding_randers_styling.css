@@ -1039,6 +1039,6 @@ ol.circle-list li:before {
 }
 
 .user-login-form .sign-up-link a {
-    float: left;
+    float: left !important;
     color: #ffffff;
 }
