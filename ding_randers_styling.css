@@ -885,6 +885,19 @@ ol.circle-list li:before {
     float: left;
     margin: 0 5% 25px 5%;
   }
+  .pane-top-recommendation-list .pane-content .pane-new-materials-covers .more-link {
+    width: 40%;
+    float: left;
+    margin: 0 6% 12px 3%;
+  }
+  .pane-top-recommendation-list .pane-content .pane-new-materials-covers .more-link a {
+    padding: 20px 5px 16px 13px;
+    width: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 145px;
+  }
 }
 
 .pane-content .pane-new-materials-covers .more-link:nth-child(4n) {
