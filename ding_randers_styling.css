@@ -1023,3 +1023,22 @@ ol.circle-list li:before {
 .webform-client-form .webform-component-fieldset .webform-component {
     clear: none;
 }
+
+.user-login-form .sign-up-link {
+    clear: both;
+    position: relative;
+    -webkit-transition: background-color .3s cubic-bezier(.165,.84,.44,1),color .3s cubic-bezier(.165,.84,.44,1);
+    -moz-transition: background-color .3s cubic-bezier(.165,.84,.44,1),color .3s cubic-bezier(.165,.84,.44,1);
+    transition: background-color .3s cubic-bezier(.165,.84,.44,1),color .3s cubic-bezier(.165,.84,.44,1);
+    width: 53%;
+    float: right;
+    border-radius: 5px;
+    padding: 20px 80px 14px 15px;
+    background-color: #f96b6b;
+    color: #ffffff;
+}
+
+.user-login-form .sign-up-link a {
+    float: left;
+    color: #ffffff;
+}
