@@ -814,6 +814,10 @@ ol.circle-list li:before {
 
 }
 
+.genre-list-big .group-blocks--inner .group-blocks--third {
+  clear: left;
+}
+
 .genre-list-big .group-blocks--inner h2 {
     margin-bottom : 10px;
 }
