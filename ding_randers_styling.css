@@ -803,7 +803,7 @@ ol.circle-list li:before {
 /* Oversigtsside */
 
 .genre-list-big .group-blocks--inner>div  {
-    width : 47%;
+    width : 45%;
     float : left;
     margin-bottom: 30px;
     margin-left: 3%
@@ -877,12 +877,6 @@ ol.circle-list li:before {
     margin-right: 2.4911%;
     width: 23.1%;
     min-width: 20%;
-}
-
-@media screen and (max-width: 600px) {
-  .pane-top-recommendation-list .pane-content .pane-new-materials-covers .more-link a {
-    width: 100%;
-  }
 }
 
 @media screen and (max-width: 950px) {
