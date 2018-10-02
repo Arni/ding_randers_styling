@@ -879,6 +879,12 @@ ol.circle-list li:before {
     min-width: 20%;
 }
 
+@media screen and (max-width: 600px) {
+  .pane-top-recommendation-list .pane-content .pane-new-materials-covers .more-link a {
+    width: 100%;
+  }
+}
+
 @media screen and (max-width: 950px) {
   .pane-content .pane-new-materials-covers  .more-link {
     width: 40%;
@@ -892,11 +898,10 @@ ol.circle-list li:before {
   }
   .pane-top-recommendation-list .pane-content .pane-new-materials-covers .more-link a {
     padding: 20px 5px 16px 13px;
-    width: auto;
+    width: 100%;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    min-width: 145px;
   }
 }
 
@@ -905,7 +910,8 @@ ol.circle-list li:before {
 }
 
 .pane-content .pane-new-materials-covers  .more-link a {
-    font-size : 18px;
+    font-size: 18px;
+    width: 100%;
 }
 
 .pane-content .pane-new-materials-covers  .more-link a::after {
