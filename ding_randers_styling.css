@@ -1046,3 +1046,9 @@ ol.circle-list li:before {
 .page-node-2994 .place2book-tickets-info {
     display: none;
 }
+
+/*Remove Add to list button */ 
+
+.ding-list-add-button {
+    display:none;
+}
