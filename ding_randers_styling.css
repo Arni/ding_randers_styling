@@ -1042,3 +1042,7 @@ ol.circle-list li:before {
     float: left !important;
     color: #ffffff;
 }
+
+.page-node-2994 .place2book-tickets-info {
+    display: none;
+}
