@@ -1047,8 +1047,17 @@ ol.circle-list li:before {
     display: none;
 }
 
-/*Remove Add to list button */ 
+/*Remove Add to list button */
 
 .ding-list-add-button {
     display:none;
+}
+
+/*Styling of galakse-logo in header logo*/
+.topbar-inner .logo a:first-child {
+  float: left;
+}
+
+.topbar-inner .logo a:last-child {
+  float: right;
 }
