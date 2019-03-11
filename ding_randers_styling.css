@@ -1060,4 +1060,5 @@ ol.circle-list li:before {
 
 .topbar-inner .logo a:last-child {
   float: right;
+  margin-top: 4px;
 }
