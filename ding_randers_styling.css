@@ -1062,3 +1062,12 @@ ol.circle-list li:before {
   float: right;
   margin-top: 4px;
 }
+
+/*Styling of frontpage banner*/
+.pane-custom.pane-1 .panel-pane-inner {
+  padding: 0px;
+}
+
+.pane-custom.pane-1 .panel-pane-inner p {
+  margin-bottom: 0px;
+}
