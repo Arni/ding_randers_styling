@@ -1065,9 +1065,9 @@ ol.circle-list li:before {
 
 /*Styling of frontpage banner*/
 .pane-custom.pane-1 .panel-pane-inner {
-  padding: 0px;
+  padding: 0px !important;
 }
 
 .pane-custom.pane-1 .panel-pane-inner p {
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
 }
