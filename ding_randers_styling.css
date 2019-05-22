@@ -1071,3 +1071,8 @@ ol.circle-list li:before {
 .pane-custom.pane-1 .panel-pane-inner p {
   margin-bottom: 0px !important;
 }
+
+
+.secondary-content .pane-ting-search-sort-form {
+    width: 90%
+}
