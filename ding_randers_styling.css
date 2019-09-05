@@ -919,7 +919,7 @@ ol.circle-list li:before {
     line-height: 0.7;
 }
 
-/* Carasoul theming */
+/* Carousel theming */
 
 .ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-title h2,
 .pane-ting-ting-object-types .view-mode-teaser .field-name-ting-title h2 {
@@ -982,6 +982,10 @@ ol.circle-list li:before {
 
 .ding-carousel .ting-object.view-mode-teaser>.inner {
     padding-top: 140%;
+}
+
+.node-type-inspiration-carousel iframe {
+    margin-right: 15px;
 }
 
 /** Hide interest period on user profile */
