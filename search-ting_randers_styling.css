@@ -96,6 +96,10 @@
       border-top: none;
   }
   
+  .panel-pane.pane-search-result-count .page-title {
+      display: none;
+  }
+  
 /*  .ting-object.list-item-style .field-name-ting-title h2 a {
       text-overflow: ellipsis;
       max-width: 10px;
