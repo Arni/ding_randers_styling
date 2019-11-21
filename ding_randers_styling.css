@@ -921,6 +921,11 @@ ol.circle-list li:before {
 
 /* Carousel theming */
 
+.page-ding-frontpage .pane-carousel .field-name-ting-title,
+.page-ding-frontpage .pane-carousel .field-name-ting-author {
+  display: none;
+}
+
 .ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-title h2,
 .pane-ting-ting-object-types .view-mode-teaser .field-name-ting-title h2 {
     font-family: FaktPro-Normal,sans-serif;
