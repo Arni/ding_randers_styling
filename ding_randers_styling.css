@@ -926,6 +926,10 @@ ol.circle-list li:before {
   display: none;
 }
 
+.page-ding-frontpage .pane-carousel .ding-carousel .slick-slider {
+    min-height: 300px;
+}
+
 .ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-title h2,
 .pane-ting-ting-object-types .view-mode-teaser .field-name-ting-title h2 {
     font-family: FaktPro-Normal,sans-serif;
