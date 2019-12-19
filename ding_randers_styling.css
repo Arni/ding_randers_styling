@@ -1089,3 +1089,9 @@ ol.circle-list li:before {
 .secondary-content .pane-ting-search-sort-form {
     width: 90%
 }
+
+/*Styling of frontpage banner*/
+.page-ding-frontpage .view-ding-news .info-dash,
+.page-ding-frontpage .view-ding-news .submitted {
+  display: none;
+}
