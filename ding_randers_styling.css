@@ -919,7 +919,16 @@ ol.circle-list li:before {
     line-height: 0.7;
 }
 
-/* Carasoul theming */
+/* Carousel theming */
+
+.page-ding-frontpage .pane-carousel .field-name-ting-title,
+.page-ding-frontpage .pane-carousel .field-name-ting-author {
+  display: none;
+}
+
+.page-ding-frontpage .pane-carousel .ding-carousel .slick-slider {
+    min-height: 300px;
+}
 
 .ding-carousel .ding-carousel-item .view-mode-teaser .field-name-ting-title h2,
 .pane-ting-ting-object-types .view-mode-teaser .field-name-ting-title h2 {
@@ -982,6 +991,10 @@ ol.circle-list li:before {
 
 .ding-carousel .ting-object.view-mode-teaser>.inner {
     padding-top: 140%;
+}
+
+.node-type-inspiration-carousel iframe {
+    margin-right: 15px;
 }
 
 /** Hide interest period on user profile */
@@ -1070,4 +1083,15 @@ ol.circle-list li:before {
 
 .pane-custom.pane-1 .panel-pane-inner p {
   margin-bottom: 0px !important;
+}
+
+
+.secondary-content .pane-ting-search-sort-form {
+    width: 90%
+}
+
+/*Styling of frontpage banner*/
+.page-ding-frontpage .view-ding-news .info-dash,
+.page-ding-frontpage .view-ding-news .submitted {
+  display: none;
 }

@@ -72,3 +72,38 @@
 .paragraphs-item-smart-link .more-link {
   padding: 0;
 }
+
+ /* Mobile search results */
+ 
+@media screen and (max-width: 600px) {
+  .search-results .ting-object.list-item-style .ting-object-left{
+    display: block;
+  }
+  .search-results .ting-object.list-item-style > .inner .ting-object-left {
+      width: 34.05405%;
+  }
+  .search-results .ting-object.list-item-style > .inner .ting-object-right  {
+      width: 64.05405%;
+      padding-left: 7px;
+  }
+  
+  .search-results .ting-object.list-item-style .search-result--heading-type::after {
+      display: none;
+  }
+  
+  .primary-content .pane-search-result {
+      padding: 0px;
+      border-top: none;
+  }
+  
+  .panel-pane.pane-search-result-count .page-title {
+      display: none;
+  }
+  
+/*  .ting-object.list-item-style .field-name-ting-title h2 a {
+      text-overflow: ellipsis;
+      max-width: 10px;
+      overflow: hidden;
+      white-space: nowrap;
+  }*/
+}
