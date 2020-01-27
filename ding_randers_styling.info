@@ -8,3 +8,4 @@ stylesheets[all][] = ding-event-list_randers_styling.css
 stylesheets[all][] = search-ting_randers_styling.css
 scripts[] = js/sub_menu_collapse.js
 scripts[] = js/smart_link_collapse.js
+scripts[] = js/search_focus.js
