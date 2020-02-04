@@ -1095,3 +1095,76 @@ ol.circle-list li:before {
 .page-ding-frontpage .view-ding-news .submitted {
   display: none;
 }
+
+/*Styling of content type bilkort*/
+
+.node-type-bilkort header,
+.node-type-bilkort footer {
+  display:none;
+}
+
+ body.node-type-bilkort {
+  padding: 10px;
+  margin: 10px;
+  background-color: #004153;
+}
+
+.node-type-bilkort .card {
+  box-shadow: 4px 4px 8px 8px rgba(0,0,0,0.2);
+  width: 100%;
+  border-radius: 5px;
+}
+
+.node-type-bilkort h1.bilkort {
+  color: #afcb31;
+  font-family: 'Raleway',sans-serif;
+  font-size: 62px;
+  font-weight: 800;
+  line-height: 72px;
+  margin: 0 0 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.node-type-bilkort h2 {
+  color: white;
+  font-family: Arial, "Helvetica Neue";
+  font-size: 42px;
+  font-weight: 800;
+  line-height: 30px;
+  padding-bottom: 45px;
+  padding-top: 10px;
+  margin: auto;
+  text-align: middle;
+  text-transform: uppercase;
+  display: block;
+  text-decoration: underline;
+  text-decoration-color: #afcb31;
+}
+/*
+.node-type-bilkort img {
+  border-radius: 4px 4px 0 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+*/
+.node-type-bilkort .container {
+  padding: 2px 16px;
+}
+
+.node-type-bilkort tr:nth-child(odd) {
+  background: #CCC;
+}
+.node-type-bilkort tr:nth-child(even) {
+  background: #FFF;
+}
+
+.node-type-bilkort table {
+  width: 100%;
+}
+
+.node-type-bilkort table * {
+  font-family: sans-serif;
+}
