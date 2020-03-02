@@ -1192,3 +1192,17 @@ ol.circle-list li:before {
 .page-bilkort table * {
   font-family: sans-serif;
 }
+
+.node-type-bilkort .tobake,
+.page-bilkort .tobake {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+
+.node-type-bilkort .newcard,
+.page-bilkort .newcard {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
