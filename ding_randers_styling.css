@@ -1108,7 +1108,7 @@ ol.circle-list li:before {
 .node-type-bilkort.page-no-panels .content-wrapper,
 .page-bilkort.page-no-panels .content-wrapper {
   background-color: #004153;
-  background-image: #004153;
+  background-image: linear-gradient(to top,#004153 30px,#004153 100%);
 }
 
  body.node-type-bilkort,
