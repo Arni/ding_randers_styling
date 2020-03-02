@@ -1105,6 +1105,11 @@ ol.circle-list li:before {
   display:none;
 }
 
+.node-type-bilkort.page-no-panels .content-wrapper,
+.page-bilkort.page-no-panels .content-wrapper {
+  background-color: #004153;
+}
+
  body.node-type-bilkort,
  body.page-bilkort {
   padding: 10px;
