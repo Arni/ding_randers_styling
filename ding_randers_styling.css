@@ -1108,6 +1108,7 @@ ol.circle-list li:before {
 .node-type-bilkort.page-no-panels .content-wrapper,
 .page-bilkort.page-no-panels .content-wrapper {
   background-color: #004153;
+  background-image: #004153;
 }
 
  body.node-type-bilkort,
