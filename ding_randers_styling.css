@@ -1171,6 +1171,12 @@ ol.circle-list li:before {
 .page-bilkort tr:nth-child(odd) {
   background: #CCC;
 }
+
+.node-type-bilkort th,
+.page-bilkort th {
+  padding: 2px 0 0 13px;
+}
+
 .node-type-bilkort tr:nth-child(even),
 .page-bilkort tr:nth-child(even) {
   background: #FFF;
