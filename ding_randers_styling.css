@@ -1182,8 +1182,8 @@ ol.circle-list li:before {
   background: #FFF;
 }
 
-.node-type-bilkort table,
-.page-bilkort table {
+.node-type-bilkort .card table,
+.page-bilkort .card table {
   width: 100%;
   margin-bottom: 17px;
   font-size: 4vw;
