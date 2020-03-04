@@ -1098,6 +1098,10 @@ ol.circle-list li:before {
 
 /*Styling of content type bilkort*/
 
+.page-node-4155 .more-link a {
+  width: 100%;
+}
+
 .node-type-bilkort header,
 .node-type-bilkort footer,
 .page-bilkort header,
