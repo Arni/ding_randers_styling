@@ -1186,11 +1186,6 @@ ol.circle-list li:before {
 .page-bilkort table {
   width: 100%;
   margin-bottom: 17px;
-}
-
-.node-type-bilkort table *,
-.page-bilkort table * {
-  font-family: sans-serif;
   font-size: 4vw;
 }
 
