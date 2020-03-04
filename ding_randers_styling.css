@@ -1111,6 +1111,11 @@ ol.circle-list li:before {
   background-image: linear-gradient(to top,#004153 30px,#004153 100%);
 }
 
+.node-type-bilkort.page-no-panels .content-wrapper > .content-inner,
+.page-bilkort.page-no-panels .content-wrapper > .content-inner {
+    padding: 0 0 20px;
+}
+
  body.node-type-bilkort,
  body.page-bilkort {
   padding: 10px;
