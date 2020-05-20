@@ -1096,6 +1096,11 @@ ol.circle-list li:before {
   display: none;
 }
 
+/*Styling of video media on left coloumn i full-node*/
+.node-full .group-left .field-type-media .field-item {
+  margin-bottom: 10px;
+}
+
 /*Styling of content type bilkort*/
 
 .page-node-4155 .more-link a {
